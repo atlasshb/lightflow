@@ -1,0 +1,13 @@
+# R / OS
+.Rhistory
+.RData
+.Rproj.user/
+Thumbs.db
+Desktop.ini
+
+# Unrelated local assets
+light-flow/
+Final version ready for plotting.pdf
+Introductory Lecture (1).pptx
+WhatsApp Image 2026-03-03 at 13.42.52.jpeg
+Light Flow.code-workspace
